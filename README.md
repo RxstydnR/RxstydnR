@@ -119,6 +119,9 @@ Will be added soon.
 </p>
 </details>
 
+
+<!--
+
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
@@ -127,10 +130,12 @@ Will be added soon.
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 </p>
+</hr>
+
+-->
 
 
 <!--
-**RxstydnR/RxstydnR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
