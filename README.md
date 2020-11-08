@@ -7,7 +7,7 @@
   <a href="https://twitter.com/a1b2c3d4xbx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="kkataryo1018@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/ryoya.katafuchi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.slideshare.net/RyoyaKatafuchi"><img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-ar21.svg" width="10%"/></a>
+  <a href="https://www.slideshare.net/RyoyaKatafuchi"><img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-ar21.svg" width="10%" /></a>
 </p>
 
 
