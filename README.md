@@ -50,6 +50,17 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
+</a>
+
+---
+
 ## I'm also a user of ...
 <p>
 <img src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"/>
@@ -106,14 +117,7 @@
   
 </p>
 
----
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
-</a>
 
 <!--
 **RxstydnR/RxstydnR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
