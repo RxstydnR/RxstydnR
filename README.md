@@ -52,17 +52,21 @@
 
 ---
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
-</a>
-</div>
+## Activity
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
+</a>
+</p>
+
+
+---
 
 ## I'm also a user of ...
+
 <p>
 <img src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/awesomelogos/awesomelogos-ar21.svg"/>
