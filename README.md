@@ -64,7 +64,7 @@
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_drive/google_drive-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_maps/google_maps-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/ieee/ieee-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/ieee/ieee-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/imgur/imgur-ar21.svg"/>
 <img src=""/>
 <img src=""/>
