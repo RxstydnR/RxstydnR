@@ -54,8 +54,9 @@ Will be added soon.
 
 ## Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" /></p>
 
 
 ## I'm also a user of ...
