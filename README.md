@@ -46,9 +46,42 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## I'm a user of ...
+## I'm also a user of ...
 <p>
 <img src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/awesomelogos/awesomelogos-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/asus/asus-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apple_appstore/apple_appstore-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/bluetooth/bluetooth-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/box/box-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/brave/brave-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/costco/costco-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/deepl/deepl-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dropbox/dropbox-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/elsevier/elsevier-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_drive/google_drive-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/google_maps/google_maps-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/ieee/ieee-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/imgur/imgur-ar21.svg"/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
+<img src=""/>
 </p>
 
 ---
