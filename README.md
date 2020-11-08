@@ -61,6 +61,8 @@ Will be added soon.
 
 ## I'm also a user of ...
 
+<details>
+<summary> Lists </summary>
 <p>
 <img src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/awesomelogos/awesomelogos-ar21.svg"/>
@@ -113,8 +115,8 @@ Will be added soon.
 <img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"/>
-  
 </p>
+</details>
 
 
 
