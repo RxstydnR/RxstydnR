@@ -3,11 +3,9 @@
 <p align="center">
 <!--   <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.instagram.com/xstydn/?hl=ja"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/a1b2c3d4xbx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="kkataryo1018@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.facebook.com/ryoya.katafuchi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 
@@ -50,22 +48,23 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
 
 ## Activity
 
 <p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
-</a></p>
+</a>
+<!-- </p> -->
 
-<p><a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <p> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
 </a></p>
 </p>
 
 
----
 
 ## I'm also a user of ...
 
