@@ -95,6 +95,12 @@
 <img src="https://www.vectorlogo.zone/logos/trivago/trivago-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/vogue/vogue-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg"/>
+<img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"/>
+  
 </p>
 
 ---
