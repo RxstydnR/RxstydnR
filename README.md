@@ -54,13 +54,13 @@
 
 ## Activity
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
+</a></p>
 
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p><a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" />
-</a>
-</p>
+</a></p>
 
 
 ---
