@@ -47,8 +47,9 @@
 </p>
 
 ## I'm a user of ...
-
-
+<p>
+<img src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg"/>
+</p>
 
 ---
 
