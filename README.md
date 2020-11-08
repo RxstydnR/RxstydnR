@@ -85,7 +85,6 @@
 <img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/pixabay/pixabay-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/pringles/pringles-ar21.svg"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/apple_safari/apple_safari-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/samsung/samsung-ar21.svg"/>
 <img src="https://www.vectorlogo.zone/logos/shell/shell-ar21.svg"/>
