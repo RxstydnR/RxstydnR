@@ -15,6 +15,19 @@
 
 Will be added soon.
 
+### My way of thinking
+
+```python
+Inputs = [New_Knowledge, Academic_Paper, Webpage...]
+
+for input in Inputs:
+  new_idea = My_Brain(input) # Returning a revolutionary idea from my knowledge and experience.
+  
+  if new_idea:
+    print(f"How about {new_idea} ??")
+  My_Brain_train(input)
+```
+
 ## Languages & Tools
 
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
