@@ -21,7 +21,7 @@ Will be added soon.
 Inputs = [New_Knowledge, Academic_Paper, Webpage...]
 
 for input in Inputs:
-  new_idea = My_Brain(input) # Returning a revolutionary idea from my knowledge and experience.
+  new_idea = My_Brain(input) # Returning a revolutionary idea from my knowledge and experience, but this probability is ... seriously random.
   
   if new_idea:
     print(f"How about {new_idea} ??")
