@@ -15,6 +15,11 @@
 
 Will be added soon.
 
+### Works
+- [Image-based plant disease diagonasis with unsupervised anomaly detection
+based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
+
+<!--
 ### My way of thinking
 
 ```python
@@ -27,6 +32,7 @@ for input in Inputs:
     print(f"How about {new_idea} ??")
   My_Brain_train(input)
 ```
+-->
 
 ## Languages & Tools
 
