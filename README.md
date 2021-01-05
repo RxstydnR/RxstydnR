@@ -73,14 +73,16 @@ for input in Inputs:
 </p>
 
 
-
+<!--
 ## Activity
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=RxstydnR&count_private=true&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RxstydnR" /></p>
 
+-->
 
+<!--
 ## I'm also a user of ...
 
 <details>
@@ -139,9 +141,9 @@ for input in Inputs:
 <img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-ar21.svg"/>
 </p>
 </details>
+-->
 
-
-
+<!--
 <br><br>
 **If you think my work is good or useful, consider giving it a :star: or fork-ing to show some :heart: . It will keep me motivated.**
 
@@ -155,6 +157,8 @@ for input in Inputs:
 <!--    <i>You miss 100% of the shots you don't take.</i> -->
    <br>
 </p>
+
+-->
 
 <!--
 
