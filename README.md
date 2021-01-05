@@ -1,5 +1,21 @@
 ## Works
+- [PUlearning_segmentation](https://github.com/RxstydnR/PUlearning_segmentation)  
+explanation
 
+- [ImageSorting](https://github.com/RxstydnR/ImageSorting)  
+explanation
+
+- [AE_SuperResolution](https://github.com/RxstydnR/AE_SuperResolution)  
+explanation
+
+- [VAE](https://github.com/RxstydnR/VAE)  
+explanation
+
+- [CustomLoss](https://github.com/RxstydnR/CustomLoss)  
+explanation
+
+- [Aurora_classify](https://github.com/RxstydnR/Aurora_classify)  
+explanation
 
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
