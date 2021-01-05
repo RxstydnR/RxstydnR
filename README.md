@@ -13,7 +13,7 @@ Will be added soon.
 based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
 
 ## Accounts
-<p align="center">
+<p align="left">
 <!--   <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://github.com/RxstydnR/RxstydnR" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.instagram.com/xstydn/?hl=ja"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
