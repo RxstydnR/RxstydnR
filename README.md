@@ -1,16 +1,5 @@
 ## Works
 
-## Accounts
-<p align="center">
-<!--   <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="https://github.com/RxstydnR/RxstydnR" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/xstydn/?hl=ja"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/a1b2c3d4xbx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="kkataryo1018@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/ryoya.katafuchi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.slideshare.net/RyoyaKatafuchi"><img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-ar21.svg" width="10%" /></a>
-</p>
-
 
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
@@ -22,6 +11,17 @@ Will be added soon.
 ## Papers
 - [Image-based plant disease diagonasis with unsupervised anomaly detection
 based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
+
+## Accounts
+<p align="center">
+<!--   <a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="https://github.com/RxstydnR/RxstydnR" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/xstydn/?hl=ja"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/a1b2c3d4xbx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="kkataryo1018@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/ryoya.katafuchi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.slideshare.net/RyoyaKatafuchi"><img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-ar21.svg" width="10%" /></a>
+</p>
 
 
 ## Languages & Tools
