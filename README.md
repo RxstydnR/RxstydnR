@@ -1,23 +1,23 @@
 ## Works
 - [PUlearning_segmentation](https://github.com/RxstydnR/PUlearning_segmentation)  
-explanation
+Image segmentation using PU Learning (Semi-Supervised Learning).
 
 - [ImageSorting](https://github.com/RxstydnR/ImageSorting)  
-explanation
+Image Sorting using a latent space of Generative models such as GAN, AE.
 
 - [Stock_BERT](https://github.com/RxstydnR/Stock_BERT)
 
 - [AE_SuperResolution](https://github.com/RxstydnR/AE_SuperResolution)  
-explanation
+Image Super-Resolution using AE. This is Machine Learning practice for trainee students.
 
 - [VAE](https://github.com/RxstydnR/VAE)  
-explanation
+Keras Implementation of VAE (Variational Auto Encoder)
 
 - [CustomLoss](https://github.com/RxstydnR/CustomLoss)  
-explanation
+How to make custom loss functions with Keras.
 
 - [Aurora_classify](https://github.com/RxstydnR/Aurora_classify)  
-explanation
+Aurora Image classification with Keras. This can be applied to other images as well.
 
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
