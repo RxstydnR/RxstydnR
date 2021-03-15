@@ -6,6 +6,7 @@ Image segmentation using PU Learning (Semi-Supervised Learning).
 Image Sorting using a latent space of Generative models such as GAN, AE.
 
 - [Stock_BERT](https://github.com/RxstydnR/Stock_BERT)
+Stock Price Forecast using BERT representation.
 
 - [AE_SuperResolution](https://github.com/RxstydnR/AE_SuperResolution)  
 Image Super-Resolution using AE. This is Machine Learning practice for trainee students.
@@ -21,8 +22,7 @@ Aurora Image classification with Keras. This can be applied to other images as w
 
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-Will be added soon.
-
+First-year master's student in Kyushu Institute of Technology (KIT). (as of March 15, 2021)
 
 
 
