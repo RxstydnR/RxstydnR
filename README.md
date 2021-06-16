@@ -61,3 +61,7 @@ based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+## Words
+
+- Be a serendipitist 
+- Logical for non-logical
