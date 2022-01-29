@@ -1,5 +1,9 @@
 ## Works
-- [PUlearning_segmentation](https://github.com/RxstydnR/PUlearning_segmentation)  
+
+- [CoSPA](https://github.com/RxstydnR/CoSPA): Cost-effective image segmentation from partial patch annotations
+- [LEA-Net](https://github.com/RxstydnR/LEA-Net): Layer-wise External Attention Network for Efficient Color Anomaly Detection
+
+<!-- - [PUlearning_segmentation](https://github.com/RxstydnR/PUlearning_segmentation)  
 Image segmentation using PU Learning (Semi-Supervised Learning).
 
 - [ImageSorting](https://github.com/RxstydnR/ImageSorting)  
@@ -19,16 +23,18 @@ How to make custom loss functions with Keras.
 
 - [Aurora_classify](https://github.com/RxstydnR/Aurora_classify)  
 Aurora Image classification with Keras. This can be applied to other images as well.
-
+ -->
+ 
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-First-year master's student in Kyushu Institute of Technology (KIT). (as of March 15, 2021)
+Second-year master's student in Kyushu Institute of Technology (KIT). (as of April 28, 2022)
 
 
 
 ## Papers
 - [Image-based plant disease diagonasis with unsupervised anomaly detection
 based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
+- [LEA-Net: Layer-wise External Attention Network for Efficient Color Anomaly Detection](https://arxiv.org/pdf/2109.05493.pdf)
 
 ## Accounts
 <p align="left">
