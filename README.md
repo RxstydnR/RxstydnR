@@ -38,6 +38,7 @@ Second-year master's student in Kyushu Institute of Technology (KIT). (as of Apr
 - [Image-based plant disease diagonasis with unsupervised anomaly detection
 based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
 - [LEA-Net: Layer-wise External Attention Network for Efficient Color Anomaly Detection](https://arxiv.org/pdf/2109.05493.pdf)
+- [Layer-Wise External Attention by Well-Localized Attention Map for Efficient Deep Anomaly Detection](https://link.springer.com/article/10.1007/s42979-024-02912-3)
 
 ## Accounts
 <p align="left">
