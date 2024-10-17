@@ -1,7 +1,9 @@
+<!--
 ## Works
 
 - [CoSPA](https://github.com/RxstydnR/CoSPA): Cost-effective image segmentation from partial patch annotations
 - [LEA-Net](https://github.com/RxstydnR/LEA-Net): Layer-wise External Attention Network for Efficient Color Anomaly Detection
+-->
 
 <!-- - [PUlearning_segmentation](https://github.com/RxstydnR/PUlearning_segmentation)  
 Image segmentation using PU Learning (Semi-Supervised Learning).
@@ -24,11 +26,12 @@ How to make custom loss functions with Keras.
 - [Aurora_classify](https://github.com/RxstydnR/Aurora_classify)  
 Aurora Image classification with Keras. This can be applied to other images as well.
  -->
- 
+
+ <!--
 ## WhoamI ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 Second-year master's student in Kyushu Institute of Technology (KIT). (as of April 28, 2022)
-
+-->
 
 
 ## Papers
@@ -47,7 +50,7 @@ based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
   <a href="https://www.slideshare.net/RyoyaKatafuchi"><img src="https://www.vectorlogo.zone/logos/slideshare/slideshare-ar21.svg" width="10%" /></a>
 </p>
 
-
+<!--
 ## Languages & Tools
 
 <p align="left">
@@ -71,3 +74,5 @@ based on reconstructability of colors](https://arxiv.org/pdf/2011.14306.pdf)
 
 - Be a serendipitist 
 - Logical for non-logical
+
+-->
